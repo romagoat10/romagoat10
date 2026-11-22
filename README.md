@@ -2,6 +2,16 @@
 
 I’m a high school student from Kazakhstan interested in using computing to explore questions in AI, machine learning, and economics
 
+### What I’m interested in
+
+Artificial intelligence and machine learning
+
+Computational economics and algorithmic pricing
+
+AI safety
+
+Building practical software projects
+
 ### What I'm working on
 
 - **[Reality Check](https://realitycheckprep.com)**: a digital SAT prep site I built, with a question bank, timed practice tests, vocabulary practice and a study planner.
@@ -15,7 +25,7 @@ discord community: https://discord.gg/pWUUyNHAAB
 
 ### Tools
 
-Python · pandas · NumPy · scikit-learn · Stable-Baselines3 · Gymnasium · Streamlit · Plotly · Matplotlib · JavaScript
+Python · pandas · NumPy · scikit-learn · Stable-Baselines3 · Gymnasium · Streamlit · Plotly 
 
 ### Find me
 Github: https://github.com/romagoat10
