@@ -1,12 +1,12 @@
 ## Hi, I'm Ramazan 👋
 
-I'm a high schooler from Kazakhstan who loves AI and machine learning. I like building things, testing ideas, and figuring out how models actually learn. You can see what I've been working on in my repositories below.
+I’m a high school student from Kazakhstan interested in using computing to explore questions in AI, machine learning, and economics
 
 ### What I'm working on
 
 - **[Reality Check](https://realitycheckprep.com)**: a digital SAT prep site I built, with a question bank, timed practice tests, vocabulary practice and a study planner.
 - **[Lunar Lander reward shaping](https://github.com/romagoat10/lunar-lander-reward-shaping)**: PPO agents in Gymnasium's LunarLander-v3, testing whether changing the reward helps an agent land or teaches it the wrong goal. Evaluated across 6 training seeds on the original game score.
-- **Research interest:** can machine learning forecast inflation better than traditional economic models, using data like interest rates, exchange rates, oil and food prices, and money supply?
+discord community: https://discord.gg/pWUUyNHAAB
 
 ### Other projects
 
@@ -16,3 +16,6 @@ I'm a high schooler from Kazakhstan who loves AI and machine learning. I like bu
 ### Tools
 
 Python · pandas · NumPy · scikit-learn · Stable-Baselines3 · Gymnasium · Streamlit · Plotly · Matplotlib · JavaScript
+
+### Find me
+Github: https://github.com/romagoat10
