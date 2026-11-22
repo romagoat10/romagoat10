@@ -1,6 +1,6 @@
 ## Hi, I'm Ramazan 👋
 
-I'm a high school student from Kazakhstan interested in machine learning, algorithms and mathematical modeling. I like projects where a model has to prove itself against a simple baseline.
+I'm a high schooler from Kazakhstan who loves AI and machine learning. I like building things, testing ideas, and figuring out how models actually learn. You can see what I've been working on in my repositories below.
 
 ### What I'm working on
 
