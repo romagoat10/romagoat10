@@ -14,9 +14,9 @@ Building practical software projects
 
 ### What I'm working on
 
-- **[Reality Check](https://realitycheckprep.com)**: a digital SAT prep site I built, with a question bank, timed practice tests, vocabulary practice and a study planner.
+- **[Reality Check](https://realitycheckprep.com)**: a digital SAT prep site I built, with a question bank, timed practice tests, vocabulary practice and a study planner. discord community: https://discord.gg/pWUUyNHAAB
 - **[Lunar Lander reward shaping](https://github.com/romagoat10/lunar-lander-reward-shaping)**: PPO agents in Gymnasium's LunarLander-v3, testing whether changing the reward helps an agent land or teaches it the wrong goal. Evaluated across 6 training seeds on the original game score.
-discord community: https://discord.gg/pWUUyNHAAB
+
 
 ### Other projects
 
